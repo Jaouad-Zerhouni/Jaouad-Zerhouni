@@ -49,10 +49,8 @@
 
 ### :trophy: Competitive programming
 
-| Contest | Team | Result |
-|---|---|---|
-| 🇲🇦 **MNPC 2023**: Moroccan National Programming Contest (UM6P, Benguerir, Feb 2024) | TOOL | Participant |
-| 🇲🇦 **MNPC 2022**: Moroccan National Programming Contest (Oct 2022) | Gadz'IT-0 (ENSAM) | **Ranked 20 / 90 teams** |
+- 🇲🇦 **MNPC 2023**: Moroccan National Programming Contest (UM6P, Benguerir, Feb 2024)
+- 🇲🇦 **MNPC 2022**: Moroccan National Programming Contest (Oct 2022)
 
 <div align="center">
 
