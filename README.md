@@ -49,6 +49,11 @@
 
 ### :trophy: Competitive programming
 
+| Contest | Team | Result |
+|---|---|---|
+| 🇲🇦 **MNPC 2023**: Moroccan National Programming Contest (UM6P, Benguerir, Feb 2024) | TOOL | Finalist |
+| 🇲🇦 **MNPC 2022**: Moroccan National Programming Contest (Oct 2022) | Gadz'IT-0 (ENSAM) | **Ranked 20 / 90 teams** |
+
 <div align="center">
 
 <a href="https://leetcode.com/u/jaouad_zer/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
