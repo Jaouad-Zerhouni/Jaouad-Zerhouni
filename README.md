@@ -29,13 +29,13 @@
 
 ### :man_technologist: About me
 
-- 🎓 **PhD student** at **ENSAM Meknès** (Research & Development in Sciences & Engineering)
-- ☀️ My research: **applying Artificial Intelligence to solar energy**
-- 🛠️ **State Engineer** in Mechanical Engineering, Energetics option (2025)
-- 📄 Publications on [Scopus](https://www.scopus.com/authid/detail.uri?authorId=59962429900)
-- 🏆 Competitive programmer, mostly in **C++**
-- 📍 Based in Meknes, Morocco 🇲🇦
-- 📫 Reach me at **j.zerhouni@edu.umi.ac.ma**
+- **PhD student** at **ENSAM Meknès** (Research & Development in Sciences & Engineering)
+- My research: **applying Artificial Intelligence to solar energy**
+- **State Engineer** in Mechanical Engineering, Energetics option (2025)
+- Publications on [Scopus](https://www.scopus.com/authid/detail.uri?authorId=59962429900)
+- Competitive programmer, mostly in **C++**
+- Based in Meknes, Morocco 🇲🇦
+- Reach me at **j.zerhouni@edu.umi.ac.ma**
 
 ---
 
