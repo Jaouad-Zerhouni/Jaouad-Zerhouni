@@ -1,4 +1,4 @@
-<div id="header" align="center">
+﻿<div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 
   <div id="badges">
@@ -51,7 +51,7 @@
 
 | Contest | Team | Result |
 |---|---|---|
-| 🇲🇦 **MNPC 2023**: Moroccan National Programming Contest (UM6P, Benguerir, Feb 2024) | TOOL | Finalist |
+| 🇲🇦 **MNPC 2023**: Moroccan National Programming Contest (UM6P, Benguerir, Feb 2024) | TOOL | Participant |
 | 🇲🇦 **MNPC 2022**: Moroccan National Programming Contest (Oct 2022) | Gadz'IT-0 (ENSAM) | **Ranked 20 / 90 teams** |
 
 <div align="center">
