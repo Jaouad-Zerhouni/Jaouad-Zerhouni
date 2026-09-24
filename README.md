@@ -74,9 +74,9 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Jaouad-Zerhouni&border_radius=6.5&card_width=500&theme=nord)](https://git.io/streak-stats)
 
-![Profile details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jaouad-Zerhouni&theme=nord_dark)
+![Profile details](./profile-summary-card-output/nord_dark/0-profile-details.svg)
 
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jaouad-Zerhouni&theme=nord_dark)
+![Top Languages](./profile-summary-card-output/nord_dark/2-most-commit-language.svg)
 
 [![Trophies](https://github-trophies.vercel.app/?username=Jaouad-Zerhouni&theme=nord&no-frame=true&margin-w=10&column=7)](https://github.com/Jaouad-Zerhouni)
 
