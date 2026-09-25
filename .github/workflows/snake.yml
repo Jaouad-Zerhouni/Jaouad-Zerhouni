@@ -23,7 +23,7 @@ jobs:
             dist/github-snake-dark.svg?palette=github-dark
 
       - name: Download streak card
-        run: curl -fsSL "https://streak-stats.demolab.com?user=${{ github.repository_owner }}&border_radius=6.5&card_width=500&theme=nord" -o dist/streak.svg
+        run: curl -fsSL "https://streak-stats.demolab.com?user=${{ github.repository_owner }}&border_radius=6.5&card_width=500&theme=nord" -o /tmp/streak.svg && sudo cp /tmp/streak.svg dist/streak.svg
 
       - uses: crazy-max/ghaction-github-pages@v4
         with:
