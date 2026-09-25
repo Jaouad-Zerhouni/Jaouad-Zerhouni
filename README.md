@@ -72,7 +72,7 @@
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Jaouad-Zerhouni&border_radius=6.5&card_width=500&theme=nord)](https://git.io/streak-stats)
+[![GitHub Streak](https://raw.githubusercontent.com/Jaouad-Zerhouni/Jaouad-Zerhouni/output/streak.svg)](https://git.io/streak-stats)
 
 ![Profile details](./profile-summary-card-output/nord_dark/0-profile-details.svg)
 
