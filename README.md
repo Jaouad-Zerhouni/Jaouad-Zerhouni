@@ -51,6 +51,9 @@
 
 - 🇲🇦 **MNPC 2023**: Moroccan National Programming Contest (UM6P, Benguerir, Feb 2024)
 - 🇲🇦 **MNPC 2022**: Moroccan National Programming Contest (Oct 2022)
+- 🇲🇦 **UPF Coding Challenge**: Engineering Careers Week, 2nd edition (Université Privée de Fès, May 2022)
+- 🇲🇦 **Bot Programming Competition**: 1st edition, E++ club (UM6P, Benguerir, Mar 2022)
+- 🇲🇦 **The 100 Days in CodeLand**: IEEE Student Branch coding challenge
 
 <div align="center">
 
