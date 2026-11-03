@@ -37,7 +37,7 @@ jobs:
           fi
           if [ -s /tmp/streak.svg ]; then sudo cp /tmp/streak.svg dist/streak.svg; fi
 
-      - uses: crazy-max/ghaction-github-pages@v4
+      - uses: crazy-max/ghaction-github-pages@v5
         with:
           target_branch: output
           build_dir: dist
