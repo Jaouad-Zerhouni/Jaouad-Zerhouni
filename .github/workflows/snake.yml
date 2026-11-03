@@ -22,8 +22,20 @@ jobs:
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
 
+      # The public streak-stats service is often overloaded (HTTP 503).
+      # Retry a few times, then fall back to the previously published card
+      # so the snake still gets deployed.
       - name: Download streak card
-        run: curl -fsSL "https://streak-stats.demolab.com?user=${{ github.repository_owner }}&border_radius=6.5&card_width=500&theme=nord" -o /tmp/streak.svg && sudo cp /tmp/streak.svg dist/streak.svg
+        run: |
+          url="https://streak-stats.demolab.com?user=${{ github.repository_owner }}&border_radius=6.5&card_width=500&theme=nord"
+          if curl -fsSL --retry 5 --retry-delay 15 --retry-all-errors --max-time 60 "$url" -o /tmp/streak.svg \
+             && grep -q "<svg" /tmp/streak.svg; then
+            echo "Streak card downloaded."
+          else
+            echo "::warning::Streak stats service unavailable, keeping the previous card."
+            curl -fsSL "https://raw.githubusercontent.com/${{ github.repository }}/output/streak.svg" -o /tmp/streak.svg || rm -f /tmp/streak.svg
+          fi
+          if [ -s /tmp/streak.svg ]; then sudo cp /tmp/streak.svg dist/streak.svg; fi
 
       - uses: crazy-max/ghaction-github-pages@v4
         with:
